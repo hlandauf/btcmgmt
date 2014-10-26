@@ -26,17 +26,17 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/conformal/btcchain"
-	"github.com/conformal/btcdb"
 	"github.com/conformal/btcec"
 	"github.com/conformal/btcjson"
-	"github.com/conformal/btcnet"
-	"github.com/conformal/btcscript"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
-	"github.com/conformal/btcws"
 	"github.com/conformal/fastsha256"
 	"github.com/conformal/websocket"
+	"github.com/hlandauf/btcchain"
+	"github.com/hlandauf/btcdb"
+	"github.com/hlandauf/btcnet"
+	"github.com/hlandauf/btcscript"
+	"github.com/hlandauf/btcutil"
+	"github.com/hlandauf/btcwire"
+	"github.com/hlandauf/btcws"
 )
 
 const (

@@ -9,11 +9,11 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/conformal/btcdb"
-	_ "github.com/conformal/btcdb/ldb"
-	"github.com/conformal/btcnet"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/hlandauf/btcdb"
+	_ "github.com/hlandauf/btcdb/ldb"
+	"github.com/hlandauf/btcnet"
+	"github.com/hlandauf/btcutil"
+	"github.com/hlandauf/btcwire"
 	flags "github.com/conformal/go-flags"
 )
 

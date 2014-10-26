@@ -13,11 +13,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/conformal/btcchain"
-	"github.com/conformal/btcdb"
-	"github.com/conformal/btcscript"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/hlandauf/btcchain"
+	"github.com/hlandauf/btcdb"
+	"github.com/hlandauf/btcscript"
+	"github.com/hlandauf/btcutil"
+	"github.com/hlandauf/btcwire"
 )
 
 const (

@@ -11,11 +11,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/conformal/btcchain"
-	"github.com/conformal/btcdb"
-	_ "github.com/conformal/btcdb/ldb"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
+	"github.com/hlandauf/btcchain"
+	"github.com/hlandauf/btcdb"
+	_ "github.com/hlandauf/btcdb/ldb"
+	"github.com/hlandauf/btcutil"
+	"github.com/hlandauf/btcwire"
 )
 
 var zeroHash = btcwire.ShaHash{}

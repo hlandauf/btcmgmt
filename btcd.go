@@ -13,7 +13,7 @@ import (
 	"runtime"
 	"runtime/pprof"
 
-	"github.com/conformal/btcd/limits"
+	"github.com/hlandauf/btcd/limits"
 )
 
 var (

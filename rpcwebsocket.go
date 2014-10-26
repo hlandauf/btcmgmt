@@ -18,14 +18,14 @@ import (
 	"time"
 
 	"code.google.com/p/go.crypto/ripemd160"
-	"github.com/conformal/btcdb"
 	"github.com/conformal/btcjson"
-	"github.com/conformal/btcscript"
-	"github.com/conformal/btcutil"
-	"github.com/conformal/btcwire"
-	"github.com/conformal/btcws"
 	"github.com/conformal/fastsha256"
 	"github.com/conformal/websocket"
+	"github.com/hlandauf/btcdb"
+	"github.com/hlandauf/btcscript"
+	"github.com/hlandauf/btcutil"
+	"github.com/hlandauf/btcwire"
+	"github.com/hlandauf/btcws"
 )
 
 const (

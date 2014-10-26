@@ -5,8 +5,8 @@
 package main
 
 import (
-	"github.com/conformal/btcnet"
-	"github.com/conformal/btcwire"
+	"github.com/hlandauf/btcnet"
+	"github.com/hlandauf/btcwire"
 )
 
 // activeNetParams is a pointer to the parameters specific to the
